@@ -1,5 +1,5 @@
 # python-api-challenge
-One of the harder challenges up till now, but did learn a lot from following along with zoom lectures and class skeleton. I did a lot of google searching on how to display regresson lines because I kept messing it up and not displaying correctly. Another page I was using often was W3schools because this has been a website that explains and had examples to try. 
+One of the harder challenges up till now, but did learn a lot from following along with zoom lectures and class skeleton. I did a lot of google searching on how to display regresson lines because I kept messing it up and not displaying correctly. Another page I was using often was W3schools because this has been a website that explains and had examples to try. I also had difficulty creating the git repo and cloning it not sure why but I kept having to delete my repo and create a whole new one. Was about 5 or 6 diffrent repos i deleted and had to recreate. Learned a lot and real got familar to how the code works as a result.
 
 PART 1
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python libraryLinks to an external site., the OpenWeatherMap APILinks to an external site., and your problem-solving skills to create a representative model of weather across cities.
